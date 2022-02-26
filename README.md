@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Swastik-09
 - 👀 I’m interested in Robotics, Cyber Security and Programming
-- 🌱 I’m currently learning IoT Automation
-- 💞️ I’m looking to collaborate on Robotics Projects
+- 🌱 I’m currently learning Automation Testing
+- 💞️ I’m looking to collaborate on Testing Projects
 - 📫 You can reach me at swastik.kanhar@gmail.com
 
 <!---
